@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asharvid
 - 👀 I’m interested in New technologies 
-- 🌱 I’m currently learning Data Science & Analytics
+- 🌱 I’m currently developing portfolio
 - 💞️ I’m looking to collaborate on Emerging technologies
 - 📫 Reach me on LinkedIn
 
